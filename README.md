@@ -1,5 +1,4 @@
-Reference-style: 
-![alt text][showdemo.gif]
+![alt text](showdemo.gif)
 
 ## Available Scripts
 
